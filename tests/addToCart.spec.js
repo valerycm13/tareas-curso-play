@@ -86,4 +86,6 @@ const loginPage = new LoginPage(page)
 
         await page.pause()
     })
+
+    //this is a github test 
 })
